@@ -1,0 +1,24 @@
+.ready-to-learn{
+    color: red;
+}
+.any-schedule{
+    color: seagreen;
+}
+#banner-text{
+    padding-right: 60px;
+}
+.container{
+    padding-bottom: 80px;
+    padding-top: 10px;
+}
+.first-background{
+    background-color: rgb(227, 255, 227);
+}
+.banner-button{
+    border: none;
+    border-radius: 50px;
+    background-color: rgb(53, 177, 107);
+    color: white;
+    height: 50px;
+    width: 150px;
+}
