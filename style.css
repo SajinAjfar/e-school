@@ -1,5 +1,19 @@
+.nav-link{
+    color: black;
+}
+.sign-in{
+    background-color: rgb(53, 177, 107);
+    border-radius: 50px;
+    color: white;
+}
 .ready-to-learn{
     color: red;
+}
+body{
+    font-family: 'Mukta', sans-serif;
+}
+.ready-to-learn h1{
+    font-family: 'Rubik', sans-serif;
 }
 .any-schedule{
     color: seagreen;
@@ -9,7 +23,7 @@
 }
 .container{
     padding-bottom: 80px;
-    padding-top: 10px;
+    padding-top: 20px;
 }
 .first-background{
     background-color: rgb(227, 255, 227);
@@ -21,4 +35,93 @@
     color: white;
     height: 50px;
     width: 150px;
+}
+.categories img{
+    width: 100px;
+    padding-top: 60px;
+}
+.categories{
+    padding-top: 100px;
+}
+h3{
+    padding-top: 35px;
+}
+#students{
+    padding-top: 60px;
+}
+.colomn2{
+    box-shadow: 2px 2px 10px gray;
+}
+.col{
+    padding-left: 20px;
+}
+h5{
+    color: darkgray;
+}
+.online-course{
+    text-align: center;
+    color: rgb(5, 5, 80);
+}
+.modern{
+    color: rgb(5, 5, 80);
+}
+.course-button{
+    border: none;
+    border-radius: 50px;
+    background-color: rgb(53, 177, 107);
+    color: white;
+    height: 35px;
+    width: 130px;
+}
+.card{
+    border-radius: 10px;
+    border: none;
+    box-shadow: 2px 1px 50px gray;
+}
+.card-items{
+    padding: 20px 20px;
+}
+.card-footer{
+    color: darkslategray;
+    border: none;
+    background-color: white;
+    border-radius: 10px;
+    margin: 0px 10px;
+}
+#card-footer-1{
+    text-align: left;
+}
+#card-footer-2{
+    text-align: end;
+}
+.testimonial{
+    text-align: center;
+}
+.man{
+    width: 100px;
+    margin-right: 50px;
+}
+.man-text{
+    width: 600px;
+}
+.ending{
+    background-color: rgb(20, 20, 27);
+    color: white;
+}
+#useful-links{
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+#course-terms{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+footer{
+    text-align: center;
+    color: lightgray;
+    margin-top: 30px;
+}
+.address{
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
