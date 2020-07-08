@@ -1,6 +1,9 @@
 .nav-link{
     color: black;
 }
+.emoji{
+    width: 22px;
+}
 .sign-in{
     background-color: rgb(53, 177, 107);
     border-radius: 50px;
